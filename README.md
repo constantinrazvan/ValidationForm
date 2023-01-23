@@ -10,6 +10,8 @@ So this app has been made with:
 - MongoDB 
 - Mongoose 
 - Bcrypt
+- Animate.css
+- Nodemon
 
 
 ## Run Locally
