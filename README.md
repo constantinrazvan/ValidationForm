@@ -9,6 +9,7 @@ So this app has been made with:
 - Axios 
 - MongoDB 
 - Mongoose 
+- Bcrypt
 
 
 ## Run Locally
